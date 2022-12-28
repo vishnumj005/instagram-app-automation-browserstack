@@ -1,0 +1,3 @@
+class Authentication:
+    USERNAME = '#'
+    PASSWORD = '#'

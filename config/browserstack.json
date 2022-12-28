@@ -1,0 +1,23 @@
+{
+    "Android": {
+        "project": "Instagram app test",
+        "build": "Instagram latest",
+        "name": "Instagram app test",
+        "platformName": "Android",
+        "browserstack.debug": true,
+        "app": "bs://c69e12sedc914dsdfdsds21700ab601c19ed92e",
+        "deviceName": "Google Pixel 3",
+        "os_version": "9.0"
+    },
+    "iOS": {
+        "project": "Instagram app test",
+        "build": "Instagram latest",
+        "name": "Instagram app test",
+        "platformName": "iOS",
+        "platformVersion": "12.4.7",
+        "browserstack.debug": true,
+        "app": "bs://c69e12sedc914dsdfdsds21700ab601c19ed92e",
+        "deviceName": "iPhone 12",
+        "os_version": "14.0"
+    }
+}

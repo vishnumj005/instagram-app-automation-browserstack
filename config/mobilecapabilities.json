@@ -1,0 +1,15 @@
+{
+    "Android": {
+        "platformName": "Android",
+        "platformVersion" : "13",
+        "deviceName" : "emulator-5554",
+        "packageName" : "com.instagram.android",
+        "app": "\\apps\\android\\instagram.apk"
+    },
+
+    "iOS": {
+        "platformName": "iOS",
+        "platformVersion" : 14.0,
+        "deviceName" : "iPhone 12"
+    }
+}
